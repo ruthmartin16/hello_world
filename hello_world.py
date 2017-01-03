@@ -1,6 +1,3 @@
 print "Hello world?"
 
-"111"
-
-
-"here is some function I'm working on"
+"111"ere is some function I'm working on"
